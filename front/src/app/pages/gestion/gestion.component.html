@@ -1,0 +1,12 @@
+<div>
+    <form [formGroup]="productoForm" (ngSubmit)= "onSubmit()">
+        
+        <input formControlName="name" placeholder="Titulo" >
+        <input formControlName="price" placeholder="Precio">
+        <input formControlName="description" placeholder="Tipo">
+        <input formControlName="image" placeholder="Imagen">
+        <button type="submit">Intro</button>
+      
+
+    </form>
+    </div>

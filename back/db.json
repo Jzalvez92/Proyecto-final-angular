@@ -1,0 +1,32 @@
+{
+  "producto": [
+    {
+      "name": "Horizon",
+      "price": "45",
+      "description": "rpg",
+      "image": "https://areajugones.sport.es/wp-content/uploads/2020/06/Horizon2-min.png",
+      "id": 1
+    },
+    {
+      "name": "Gran turismo 7",
+      "price": "27",
+      "description": "Carrera",
+      "image": "https://i.3djuegos.com/juegos/11140/gran_turismo_7/fotos/ficha/gran_turismo_7-5620459.jpg",
+      "id": 3
+    },
+    {
+      "name": "Red dead Redemtion",
+      "price": "50",
+      "description": "rpg",
+      "image": "https://prem-market.com/media/2021/11/red-dead-redemption-the-5fb9464457592.jpg",
+      "id": 4
+    },
+    {
+      "id": 7,
+      "name": "Resident evil",
+      "price": 26,
+      "description": "plataforma",
+      "image": "https://gorilagames.com/img/Public/1019-producto-resident-evil-village-gold-edition-ps5-6806.jpg"
+    }
+  ]
+}

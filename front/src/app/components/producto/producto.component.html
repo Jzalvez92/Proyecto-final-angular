@@ -1,0 +1,11 @@
+<li>
+    <h1>{{producto?.name}}</h1>
+    <h3>Precio:{{producto.price}}</h3>
+    <p>Descripcion:{{producto.description}}</p>
+    <img src="{{producto.image}}" alt="{{producto.name}}">
+   <button (click)="deleteProducto()">Borrar</button>
+   <br>
+   <button (click)="patchProducto(producto)">Editar</button>
+  
+</li>
+
